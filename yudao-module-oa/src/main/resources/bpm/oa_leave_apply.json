@@ -6,7 +6,7 @@
   "formType": 20,
   "formCustomCreatePath": "/oa/process/leave",
   "formCustomViewPath": "/oa/leave/detail/index.vue",
-  "visible": false,
+  "visible": true,
   "managerUserIds": [],
   "startUserIds": [],
   "startDeptIds": [],

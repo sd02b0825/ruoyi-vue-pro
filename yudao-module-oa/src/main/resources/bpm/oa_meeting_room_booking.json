@@ -6,7 +6,7 @@
   "formType": 20,
   "formCustomCreatePath": "/oa/meetingroom/booking",
   "formCustomViewPath": "/oa/meetingroom/booking/detail/index.vue",
-  "visible": false,
+  "visible": true,
   "managerUserIds": [],
   "startUserIds": [],
   "startDeptIds": [],

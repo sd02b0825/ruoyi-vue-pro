@@ -7,7 +7,7 @@
   "formType": 20,
   "formCustomCreatePath": "/oa/officialdoc/send",
   "formCustomViewPath": "/oa/officialdoc/send/detail/index.vue",
-  "visible": false,
+  "visible": true,
   "managerUserIds": [],
   "startUserIds": [],
   "startDeptIds": [],

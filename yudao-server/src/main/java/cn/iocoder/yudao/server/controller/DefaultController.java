@@ -20,12 +20,6 @@ import static cn.iocoder.yudao.framework.common.exception.enums.GlobalErrorCodeC
 @Slf4j
 public class DefaultController {
 
-    @RequestMapping("/admin-api/bpm/**")
-    public CommonResult<Boolean> bpm404() {
-        return CommonResult.error(NOT_IMPLEMENTED.getCode(),
-                "[工作流模块 yudao-module-bpm - 已禁用][参考 https://doc.iocoder.cn/bpm/ 开启]");
-    }
-
     @RequestMapping(value = { "/admin-api/pay/**"})
     public CommonResult<Boolean> pay404() {
         return CommonResult.error(NOT_IMPLEMENTED.getCode(),
@@ -92,12 +86,6 @@ public class DefaultController {
     public CommonResult<Boolean> pms404() {
         return CommonResult.error(NOT_IMPLEMENTED.getCode(),
                 "[PMS 项目管理系统 yudao-module-pms - 已禁用][参考 https://doc.iocoder.cn/pms/build/ 开启]");
-    }
-
-    @RequestMapping("/admin-api/oa/**")
-    public CommonResult<Boolean> oa404() {
-        return CommonResult.error(NOT_IMPLEMENTED.getCode(),
-                "[OA 协同办公 yudao-module-oa - 已禁用][参考 https://doc.iocoder.cn/oa/build/ 开启]");
     }
 
     @RequestMapping(value = { "/admin-api/ai/**"})

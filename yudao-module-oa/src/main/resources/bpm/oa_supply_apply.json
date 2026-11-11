@@ -6,7 +6,7 @@
   "formType": 20,
   "formCustomCreatePath": "/oa/supply/apply",
   "formCustomViewPath": "/oa/supply/apply/detail/index.vue",
-  "visible": false,
+  "visible": true,
   "managerUserIds": [],
   "startUserIds": [],
   "startDeptIds": [],

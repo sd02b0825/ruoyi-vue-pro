@@ -6,7 +6,7 @@
   "formType": 20,
   "formCustomCreatePath": "/oa/process/resign",
   "formCustomViewPath": "/oa/resign/detail/index.vue",
-  "visible": false,
+  "visible": true,
   "managerUserIds": [],
   "startUserIds": [],
   "startDeptIds": [],

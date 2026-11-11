@@ -6,7 +6,7 @@
   "formType": 20,
   "formCustomCreatePath": "/oa/process/reimbursement",
   "formCustomViewPath": "/oa/reimbursement/detail/index.vue",
-  "visible": false,
+  "visible": true,
   "managerUserIds": [],
   "startUserIds": [],
   "startDeptIds": [],

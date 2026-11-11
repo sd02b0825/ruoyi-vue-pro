@@ -7,7 +7,7 @@
   "formType": 20,
   "formCustomCreatePath": "/oa/seal/apply",
   "formCustomViewPath": "/oa/seal/apply/detail/index.vue",
-  "visible": false,
+  "visible": true,
   "managerUserIds": [],
   "startUserIds": [],
   "startDeptIds": [],

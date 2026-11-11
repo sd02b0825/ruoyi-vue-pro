@@ -6,7 +6,7 @@
   "formType": 20,
   "formCustomCreatePath": "/oa/travel/apply",
   "formCustomViewPath": "/oa/travel/apply/detail/index.vue",
-  "visible": false,
+  "visible": true,
   "managerUserIds": [],
   "startUserIds": [],
   "startDeptIds": [],

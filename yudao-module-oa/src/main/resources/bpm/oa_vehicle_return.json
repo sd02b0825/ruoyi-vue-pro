@@ -6,7 +6,7 @@
   "formType": 20,
   "formCustomCreatePath": "/oa/vehicle/return",
   "formCustomViewPath": "/oa/vehicle/return/detail/index.vue",
-  "visible": false,
+  "visible": true,
   "managerUserIds": [],
   "startUserIds": [],
   "startDeptIds": [],

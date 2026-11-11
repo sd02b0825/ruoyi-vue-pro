@@ -6,7 +6,7 @@
   "formType": 20,
   "formCustomCreatePath": "/oa/travel/reimbursement",
   "formCustomViewPath": "/oa/travel/reimbursement/detail/index.vue",
-  "visible": false,
+  "visible": true,
   "managerUserIds": [],
   "startUserIds": [],
   "startDeptIds": [],

@@ -6,7 +6,7 @@
   "formType": 20,
   "formCustomCreatePath": "/oa/process/regular",
   "formCustomViewPath": "/oa/regular/detail/index.vue",
-  "visible": false,
+  "visible": true,
   "managerUserIds": [],
   "startUserIds": [],
   "startDeptIds": [],
